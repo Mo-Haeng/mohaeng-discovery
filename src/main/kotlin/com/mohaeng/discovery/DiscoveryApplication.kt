@@ -1,4 +1,4 @@
-package com.mohang.discovery
+package com.mohaeng.discovery
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
